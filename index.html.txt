@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ezgi Comert</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <h1>Ezgi Comert</h1>
+    <p>Painter / Visual Artist</p>
+
+    <div class="gallery">
+      <img src="images/kp-1.jpg" alt="Artwork 1">
+      <img src="images/kp-3.jpg" alt="Artwork 3">
+      <img src="images/kp-2.jpg" alt="Artwork 2">
+      <img src="images/kp-4.jpg" alt="Artwork 4">
+    </div>
+
+    <a href="https://kupobjects.com">Go to Kupobjects</a>
+  </div>
+</body>
+</html>
